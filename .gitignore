@@ -1,0 +1,6 @@
+*.ipynb_checkpoints
+*gpsTrackerIn_Python.ipynb
+*gpsTrackerInPythonV2.ipynb
+*myGps_Tracking.py
+*phonetic-alphabet.csv
+*env
