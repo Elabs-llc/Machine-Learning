@@ -15,9 +15,9 @@ Welcome to my Machine Learning Projects Repository!. This repository contains co
 
 3. Project 3: **Matplotlib**
    - Under matplotlib:
-         - I learnt how to plot data using hist, pie, bar, linechart etc.
-         - I also learnt how to plot pandas dataframe using matplotlib
-         - Learned how to use OOP inmatplotlib eg. <br>
+   - I learnt how to plot data using hist, pie, bar, linechart etc.
+   - I also learnt how to plot pandas dataframe using matplotlib
+   - Learned how to use OOP inmatplotlib eg. <br>
          -
            `fig, ax = plt.subplots(figsize=(10, 5))`<br>
            `scatter = ax.scatter(
