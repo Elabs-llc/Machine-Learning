@@ -10,7 +10,17 @@ Welcome to my Machine Learning Projects Repository!. This repository contains co
 2. Project 2: **Numpy**
     - Under numpy, I learned arthmetic operations, numpy arrays, and some complex mathematics such us: `matrices`, `derivative`, `variance` etc.
     - I also learned numpy Transpose `T`, `reshape()`, `dot()`, comparsion operators, and turning images into numpy arrays.
-
+3. Project 3: **Scikit-Learn**
+   - Unde scikit-learn, I learned about
+   - An end-to-end Scikit-Learn workflow
+   - Getting the data ready
+   - Choosing the right estimator/algorithm for our problems
+   -  Fit the model/algorithm and use it to make predictions on our data
+   -  Evaluating the mode
+   -  Save and load the model
+   -  Putting it all together!
+   -  ##### Conclusion: This wasn't easy at all. But was able to learn everything
+   
 ## Note:
 To run codes in this repository, make sure you've latest python installed (Python 3.12.4 - lates version now)
 and install the following modules
